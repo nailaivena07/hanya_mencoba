@@ -14,7 +14,7 @@ session_start();
 
 <div class="login-box">
     <div class="login-logo">
-        <b>Admin</b>Blog
+        <b>Admin</b>Blog Milik Naila
     </div>
 
     <div class="card">
